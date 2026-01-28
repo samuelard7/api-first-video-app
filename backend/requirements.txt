@@ -1,0 +1,7 @@
+flask==3.0.3
+flask-jwt-extended==4.6.0
+flask-cors==4.0.1
+pymongo==4.8.0
+bcrypt==4.2.0
+python-dotenv==1.0.1
+yt-dlp==2025.12.08
